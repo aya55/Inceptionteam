@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#1E2736</color>
+    <!--color name="colorPrimaryDark">#1E2736</color-->
+    <color name="colorAccent">#0090FA</color>
+    <color name="background_light">#ffffff</color>
+    <color name="icon_tint">#888787</color>
+    <color name="nav_selected_color">#ffc107</color>
+    <color name="card_bg_color">#fbfbfb</color>
+    <color name="cv_line_color">#E0E0E0</color>
+    <color name="icon_tint_light">#afafaf</color>
+
+
+    <color name="colorBgCard">#f6f6f6</color>
+
+    <color name="lightBlue">#0090FA</color>
+</resources>
